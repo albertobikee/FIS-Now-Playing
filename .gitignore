@@ -1,0 +1,16 @@
+# Arduino / PlatformIO
+build/
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.map
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets / config
+config.h
